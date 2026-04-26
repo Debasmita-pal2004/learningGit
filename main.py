@@ -9,6 +9,6 @@ def sorting(arr):
         arr[j+1]=curr
     return arr  
 if __name__=="__main__":
-    arr=[12,11,13,5,6]
+    arr=[12,11,13]
     print(sorting(arr))
     
