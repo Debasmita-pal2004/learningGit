@@ -1,1 +1,4 @@
-print("hello pal")
+
+def sum():
+  print("sum")
+
